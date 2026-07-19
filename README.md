@@ -1,3 +1,5 @@
+![Uploading image.png…]()
+
 # About Me:
 Software developer focused on backend systems and interested in systems architecture. Actively studying performance optimization, database design, and how to build software that lasts.
 
