@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+<img width="1199" height="403" alt="image" src="https://github.com/user-attachments/assets/a831567e-7ee6-4a31-b32b-443d3d39224c" />
 
 # About Me:
 Software developer focused on backend systems and interested in systems architecture. Actively studying performance optimization, database design, and how to build software that lasts.
